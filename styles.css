@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+
+.center-content {
+    text-align: center;
+    margin: 20px 0;
+}
+
+
+.center-content img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.text-beside-image {
+    width: 500px; /* Matches the width of the image */
+    margin: 0 auto; /* Centers the text */
+    text-align: justify; /* Justifies the text so it looks balanced */
+}
+
+
+.underlined {
+    text-decoration: underline;
+}
+
+
+.highlighted {
+    background-color: orange;
+    padding: 0 2px;
+}
+
+
+.red-text {
+    color: red;
+    font-weight: bold
+}
